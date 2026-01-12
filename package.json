@@ -1,0 +1,14 @@
+{
+  "name": "3d-printing-website",
+  "version": "1.0.0",
+  "description": "Premium 3D Printing Products and Solutions",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
